@@ -3,6 +3,8 @@
 
 test lesson #3
 
+test local changes
+
 **/.terraform/* (в любой диртории игнорировать всё что находится в диретории ".terraform")
 *.tfstate (все файлы с раширением "tfstate")
 *.tfstate.* (все файлы с любым расширением в с окончанием названия .tfstate.)
